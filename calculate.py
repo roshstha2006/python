@@ -1,4 +1,4 @@
-# Basic Calculator by Roshan
+# Basic Calculator 
 
 print("\n Calculator")
 
@@ -18,3 +18,4 @@ else:
     print("Invalid operator!")
 
 print("\nCalculation completed!")
+
