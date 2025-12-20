@@ -1,45 +1,27 @@
-# 🐍 Python Projects by Roshan
+# Calculator Project
 
-Welcome to my repository where I store all of my Python learning projects.
-I am currently learning Python as my first programming language and building projects step by step.
+**Description:**  
+This project is a basic Python calculator that performs arithmetic operations such as addition, subtraction, multiplication, and division. It demonstrates the use of functions, user input handling, and basic error checking.
 
----
+**Features:**  
+- Performs addition, subtraction, multiplication, and division.  
+- Handles invalid inputs gracefully (e.g., division by zero).  
+- Interactive user prompts for operation selection and input numbers.  
+- Modular code using functions for clarity and reusability.
 
-## 📁 Project List
+**Learning Outcomes / Skills Demonstrated:**  
+- Understanding of Python functions and modular programming.  
+- Handling user input and converting between data types.  
+- Implementing conditional logic for operation selection.  
+- Simple error handling in Python.
 
-### 1. 🤖 Customer Service Chatbot (CLI)
-A simple chatbot that answers basic customer queries using Python `if-else` and regex.
+**Future Improvements / Extensions:**  
+- Add support for more complex operations like exponentiation or square roots.  
+- Implement a GUI using Tkinter for better user interaction.  
+- Maintain a history of calculations.
 
-**Run:**
----
-
-### 2. 👋 Interactive Greeting Program
-Takes user name + age and responds based on input conditions.
-
-**Run:**
----
-
-### 3. 🧮 Basic Calculator
-Performs addition, subtraction, multiplication, division & more as I update it.
-
-**Run:**
-
----
-
-## 🚀 My Learning Goals
-
-- Build GUI chatbot using Tkinter
-- Make an AI bot using Python logic
-- Host projects online with GitHub Pages
-- Add more real-life Python projects
-- Become job-ready step by step
-
----
-
-## 📬 Contact & Profile
-
-**Developer:** Roshan Shrestha  
-**GitHub:** https://github.com/roshstha2006  
-Learning Python & Web Dev 🔥
-
----
+**Notes for Interview:**  
+Be ready to explain:  
+- How the program takes user input and decides which operation to perform.  
+- How errors (like division by zero) are handled.  
+- How you structured the code with functions and why that helps readability and maintenance.
